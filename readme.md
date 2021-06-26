@@ -2,6 +2,7 @@
 
 > The minimal amount of CSS to replicate the GitHub Markdown style
 > (only monospace font)
+
 jsDelivr -> https://cdn.jsdelivr.net/gh/neelabalan/github-markdown-css@main/github-markdown.css
 
 ```html
